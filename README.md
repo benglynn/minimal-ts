@@ -4,7 +4,7 @@ Bootstrap a minimal TypeScript setup.
 
 ```bash
 npm i -y
-mkdir test src dist
+mkdir src dist
 npm i -D typescript ts-node @types/node
 npm i -D mocha @types/mocha
 npx tsc --init
